@@ -1,0 +1,3 @@
+public class WorkplaceIhsan {
+    //Ihsan is working...
+}
